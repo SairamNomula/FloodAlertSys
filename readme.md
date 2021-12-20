@@ -11,4 +11,4 @@
 
 ![image](https://user-images.githubusercontent.com/78247889/146505618-a0f3d889-b767-4f18-a720-031a005f7c6e.png)
 
-<!-- ### <div align="center"><samp>Show ❤️ by starring this repository.</samp></div> -->
+### <div align="center"><samp>Show ❤️ by starring this repository.</samp></div>
